@@ -15,6 +15,7 @@ This is a simple web project where I showcase my basic HTML skills by creating a
 
 recipes-project/
 ├── index.html            # Homepage with links to recipes
+├── README.md             # Just README file
 ├── pages/                # Folder for recipe pages
 │   ├── pasta.html        # Example recipe page
 │   └── salad.html        # Another recipe page
