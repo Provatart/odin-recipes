@@ -14,11 +14,13 @@ This is a simple web project where I showcase my basic HTML skills by creating a
 ```
 
 recipes-project/
-├── index.html        # Homepage with links to recipes
-├── pasta.html        # Example recipe page
-├── salad.html        # Another recipe page
-└── images/           # Folder for recipe images
-
+├── index.html            # Homepage with links to recipes
+├── pages/                # Folder for recipe pages
+│   ├── pasta.html        # Example recipe page
+│   └── salad.html        # Another recipe page
+└── images/               # Folder for recipe images
+    ├── pasta.jpeg        # Photo of pasta 
+    └── salad.jpeg        # Photo of the salad
 ```
 
 ## 🎯 Purpose
