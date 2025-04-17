@@ -11,7 +11,7 @@ This is a simple web project where I showcase my basic HTML skills by creating a
 
 ## 📁 Structure
 
-'''
+```
 
 recipes-project/
 ├── index.html        # Homepage with links to recipes
@@ -19,7 +19,7 @@ recipes-project/
 ├── salad.html        # Another recipe page
 └── images/           # Folder for recipe images
 
-'''
+```
 
 ## 🎯 Purpose
 
